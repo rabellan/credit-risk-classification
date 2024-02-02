@@ -6,6 +6,12 @@ __pycache__/
 # C extensions
 *.so
 
+# MacOS
+**/.DS_Store
+
+# Copy of credit_risk_classification.ipynb
+credit_risk_classification_copy.ipynb
+
 # Distribution / packaging
 .Python
 build/
